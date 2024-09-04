@@ -1,4 +1,9 @@
 /** @format */
-body {
-  background-color: #ffffff;
+.navbar .btn-outline-light:hover {
+  color: var(--bs-dark);
+}
+
+.header {
+  background: url(../images/header-background.jpg) center center no-repeat;
+  background-size: cover;
 }

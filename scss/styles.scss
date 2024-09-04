@@ -1,7 +1,9 @@
 /** @format */
+.navbar .btn-outline-light:hover {
+  color: var(--bs-dark);
+}
 
-$primary: #ffffff;
-
-body {
-  background-color: $primary;
+.header {
+  background: url(../images/header-background.jpg) center center no-repeat;
+  background-size: cover;
 }
